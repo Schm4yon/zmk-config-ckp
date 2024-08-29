@@ -14,7 +14,7 @@
 				// | TAB  |  Q  |  W  |  E  |  R  |  T  |  Y  |  U  |  I  |  O  |  P  |  [  |  ]  |        |
 				// | CAPS  |  A  |  S  |  D  |  F  |  G  |  H  |  J  |  K  |  L  |  ;  |  '  |  #  | ENTER |
 				// |  SHIFT|  \ |  Z  |  X  |  C  |  V  |  B  |  N  |  M  |  ,  |  .  | /   | SHIFT  | END |
-				// | LRCTRL |  WIN  |  ALT  |            SPACE               | ALT| 1 |RCTRL| LEFT | RIGHT |
+				// | LCTRL |  WIN  |  ALT  |            SPACE               | ALT | 1 |RCTRL| LEFT | RIGHT |
 				// ------------------------------------------------------------------------------------------
 			bindings = <
 
